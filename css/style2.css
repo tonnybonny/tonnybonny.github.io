@@ -1,0 +1,52 @@
+body{
+	background-image: url(../images/bcgrnd1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover; 
+	background-position: center;
+	background-attachment: fixed;
+}
+ul li{
+	display:inline-block;
+}
+#container1{
+	text-align: center;
+	background-color: black;
+	padding: 1px;
+	width: 100%;
+}
+h1{
+	text-align: left;
+	margin-top: 150px;
+	color: white;
+	font-family: Helvetica;
+}
+p{
+	text-align: left;
+	margin-top: 100px;
+	margin-right: 20px;
+	color: white;
+	font-family: Helvetica;
+}
+a{
+	color:white;
+	font-size: 20px;
+	font-family: Helvetica;
+}
+li{
+	padding: 10px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+#container2{
+	float:right;
+	width: 20%;
+	margin-top: 350px;
+}
+#container3{
+	float: left;
+	width: 80%;
+}
+img{
+	float:right;
+	margin-right: 10px;
+}
